@@ -10,7 +10,7 @@ cin>>r;
 };
 
 class student2 {
-public:
+public::
 int s;
 void getexpense2() {
 
