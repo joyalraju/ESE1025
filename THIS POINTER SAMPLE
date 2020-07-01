@@ -18,8 +18,8 @@ cout<<num;
 };
 int main()
 {
-sample obj;
-obj.setvalues( 'A',100);
-obj.displayvalues();
+sample obje;
+obje.setvalues( 'A',100);
+obje.displayvalues();
 return 0;
 }
